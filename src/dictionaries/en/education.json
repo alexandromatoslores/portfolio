@@ -1,0 +1,28 @@
+{
+  "title": "Education",
+  "educations": [
+    {
+      "dateRange": {
+        "from": "2018-09-01",
+        "to": "2023-12-22"
+      },
+      "jobTitle": "Computer Science Engineer",
+      "companyName": "University of Computer Sciences",
+      "description": "Graduated as a Computer Science Engineer in 2023 from the University of Computer Sciences in Havana, Cuba",
+      "isButtonVisible": false,
+      "address": "Havana, Cuba"
+    }
+  ],
+  "certifications": [
+    {
+      "title": "Web Security Course",
+      "date": "2024-03",
+      "description": "March 2024"
+    },
+    {
+      "title": "Generative Artificial Intelligence Course",
+      "date": "2025-05",
+      "description": "May 2025"
+    }
+  ]
+}

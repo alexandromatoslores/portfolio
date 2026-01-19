@@ -1,0 +1,12 @@
+{
+  "title": "Contact",
+  "fields": {
+    "fullName": "Your full name",
+    "email": "Your email",
+    "message": "Your message"
+  },
+  "section": {
+    "map": "My location",
+    "form": "Contact form"
+  }
+}

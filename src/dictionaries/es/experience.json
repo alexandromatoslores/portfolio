@@ -1,0 +1,21 @@
+{
+  "title": "Experiencia Laboral",
+  "experiences": [
+    {
+      "dateRange": {
+        "from": "2023-01-01",
+        "to": null
+      },
+      "jobTitle": "Desarrollador Web",
+      "companyName": "XETID",
+      "description": [
+        "Empresa cubana dedicada al desarrollo de soluciones informáticas para impulsar el proceso de informatización en Cuba.",
+        "Como parte de un equipo de trabajo continuo, desarrollo y mantengo sitios web para la empresa en el rol de programador.",
+        "Desempeño tanto en <primary>frontend como en backend y bases de datos</primary>.",
+        "Colaboración con otros desarrolladores siguiendo las mejores prácticas del sector."
+      ],
+      "isButtonVisible": false,
+      "address": "La Habana, Cuba"
+    }
+  ]
+}

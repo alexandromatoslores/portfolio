@@ -1,0 +1,28 @@
+{
+  "title": "Educación",
+  "educations": [
+    {
+      "dateRange": {
+        "from": "2018-09-01",
+        "to": "2023-12-01"
+      },
+      "jobTitle": "Ingeniería en Ciencias Informáticas",
+      "companyName": "Universidad de las Ciencias Informáticas",
+      "description": "Graduado de Ingeniería en Ciencias Informáticas en 2023 en la Universidad de las Ciencias Informáticas de La Habana, Cuba",
+      "isButtonVisible": false,
+      "address": "La Habana, Cuba"
+    }
+  ],
+  "certifications": [
+    {
+      "title": "Curso de Seguridad Web",
+      "date": "2024-03",
+      "description": "Marzo de 2024"
+    },
+    {
+      "title": "Curso de Inteligencia Artificial Generativa",
+      "date": "2025-05",
+      "description": "Mayo de 2025"
+    }
+  ]
+}

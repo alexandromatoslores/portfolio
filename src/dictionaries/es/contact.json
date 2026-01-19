@@ -1,0 +1,12 @@
+{
+  "title": "Contactos",
+  "fields": {
+    "fullName": "Tu nombre completo",
+    "email": "Tu correo electrónico",
+    "message": "Tu mensaje"
+  },
+  "section": {
+    "map": "Mi ubicación",
+    "form": "Formulario de contacto"
+  }
+}

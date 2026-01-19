@@ -1,0 +1,136 @@
+{
+  "title": "About Me",
+  "aboutMe": {
+    "hello": "Hello, I'm Alexandro Matos Lores",
+    "description": "Hello! I'm {{name}}, a Computer Science Engineer with experience in developing informatics solutions. Specialized in web development with <primary>JavaScript (Node), React, Next.js</primary> and <primary>PHP</primary>, with strong knowledge in <primary>frontend, backend and databases</primary>. I've worked on projects that require scalability, quality and development best practices.\nWith a fullstack vision, I create robust technical solutions focused on innovation and promoting informatization processes. I'm motivated by continuous learning, teamwork and solving complex problems effectively.",
+    "summary": {
+      "age": "Age",
+      "freelance": "Freelance",
+      "residence": "Residence",
+      "address": "Address"
+    }
+  },
+  "my_service": {
+    "title": "My Services",
+    "services": {
+      "service_1": {
+        "title": "Front-End Development",
+        "description": "Modern and responsive web applications with React.js, Next.js, and TypeScript, optimized for an excellent user experience on any device."
+      },
+      "service_2": {
+        "title": "Back-End Development",
+        "description": "Scalable and secure APIs with Node.js and PHP, focused on data management, authentication, and business logic."
+      },
+      "service_3": {
+        "title": "Full Stack Development",
+        "description": "Complete solutions integrating front-end (React, Next.js) and back-end (Node.js, PHP) with PostgreSQL databases and development best practices."
+      },
+      "service_4": {
+        "title": "PostgreSQL Databases",
+        "description": "Design and implementation of robust and optimized databases with PostgreSQL, including complex queries and efficient data management."
+      },
+      "service_5": {
+        "title": "Docker and Containerization",
+        "description": "Application containerization with Docker to ensure consistency between development, testing, and production environments."
+      },
+      "service_6": {
+        "title": "Version Control",
+        "description": "Professional source code management with Git and GitLab, following best practices for collaboration and project versioning."
+      },
+      "service_7": {
+        "title": "Responsive Design",
+        "description": "Modern and adaptable interfaces with HTML, CSS, Tailwind CSS and best practices in UX/UI for all platforms and devices."
+      }
+    }
+  },
+  "soft_skills": {
+    "title": "Soft Skills",
+    "skills": {
+      "skill_1": {
+        "title": "Communication",
+        "description": "Clear and effective communication with technical and non-technical stakeholders, ensuring understanding and alignment in projects."
+      },
+      "skill_2": {
+        "title": "Teamwork",
+        "description": "Collaborative work in multidisciplinary teams, contributing to shared goals and fostering a positive work environment."
+      },
+      "skill_3": {
+        "title": "Problem Solving",
+        "description": "Analytical approach to identifying and resolving complex technical challenges with creative and efficient solutions."
+      },
+      "skill_4": {
+        "title": "Adaptability",
+        "description": "Quick adaptation to new technologies, methodologies, and changing project requirements in dynamic environments."
+      },
+      "skill_5": {
+        "title": "Time Management",
+        "description": "Efficient organization of tasks and priorities to meet deadlines while maintaining quality standards."
+      }
+    }
+  },
+  "payment_plans": {
+    "title": "Pricing",
+    "plans": {
+      "basic": {
+        "title": "Basic Plan",
+        "price": "$25",
+        "description": "For small and fast websites.",
+        "services": [
+          "Static sites with Astro",
+          "Performance optimization",
+          "SEO and accessibility improvements",
+          "Basic API integration",
+          "Responsive design",
+          "Basic technical support"
+        ],
+        "icon": "✨"
+      },
+      "standard": {
+        "title": "Standard Plan",
+        "price": "$35",
+        "description": "For web applications with APIs and databases.",
+        "services": [
+          "Front-End with React & Next.js",
+          "Back-End with NestJS",
+          "REST & GraphQL APIs",
+          "Load optimization",
+          "SQL & NoSQL databases",
+          "Basic authentication"
+        ],
+        "icon": "⚡"
+      },
+      "premium": {
+        "title": "Premium Plan",
+        "price": "$48",
+        "description": "Complete solution for scalable applications.",
+        "services": [
+          "Full Stack with Next.js & NestJS",
+          "Advanced SEO & performance",
+          "Custom APIs",
+          "Advanced authentication",
+          "Database management",
+          "Cloud deployment",
+          "Maintenance & monitoring",
+          "Premium support"
+        ],
+        "icon": "🚀"
+      },
+      "enterprise": {
+        "title": "Enterprise Plan",
+        "price": "$50",
+        "description": "For Web3, blockchain, and large-scale projects.",
+        "services": [
+          "Full Stack with Next.js & NestJS",
+          "High-traffic scalability",
+          "Web3 & Smart Contracts",
+          "ERC-20 Tokens",
+          "NFT Marketplaces",
+          "Wallet integration",
+          "Security & auditing",
+          "Premium support"
+        ],
+        "icon": "🏆"
+      }
+    }
+  }
+}

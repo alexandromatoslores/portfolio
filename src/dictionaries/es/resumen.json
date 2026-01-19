@@ -1,0 +1,55 @@
+{
+  "title": "Resumen",
+  "section": {
+    "experience": "Experiencia Laboral",
+    "education": "Educación",
+    "skills": "Habilidades",
+    "quote": "Cita"
+  },
+  "skills": {
+    "code": "Codificación",
+    "knowledge": "Conocimiento",
+    "tools": "Herramientas",
+    "languages": "Lenguaje"
+  },
+  "knowledge": [
+    "Desarrollo web con React y Next.js",
+    "Desarrollo backend con Node.js",
+    "Bases de datos PostgreSQL",
+    "HTML, CSS, Tailwind CSS",
+    "APIs REST",
+    "Control de versiones (Git)",
+    "Docker y contenedorización",
+    "Arquitectura fullstack",
+    "Optimización de rendimiento",
+    "Seguridad web"
+  ],
+  "types": {
+    "All": "Todos",
+    "Backend": "Backend",
+    "Frontend": "Frontend",
+    "Database": "Base de datos",
+    "Mobile": "Móvil",
+    "Tool": "Herramienta",
+    "Language": "Lenguaje",
+    "Library": "Librería",
+    "Framework": "Framework",
+    "Software": "Software",
+    "Other": "Otro",
+    "Ai": "Inteligencia artificial"
+  },
+  "quote": {
+    "quote": "Hablar es barato. Enséñame el código.",
+    "rol": "Creador de Linux y Git"
+  },
+  "language": [
+    {
+      "name": "Español",
+      "level": 10
+    },
+    {
+      "name": "Inglés",
+      "level": 4
+    }
+  ]
+}

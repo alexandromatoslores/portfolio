@@ -1,0 +1,21 @@
+{
+  "title": "Work Experience",
+  "experiences": [
+    {
+      "dateRange": {
+        "from": "2023-01-01",
+        "to": null
+      },
+      "jobTitle": "Web Developer",
+      "companyName": "XETID",
+      "description": [
+        "Cuban company dedicated to developing informatics solutions to drive the informatization process in Cuba.",
+        "As part of a continuous working team, I develop and maintain websites for the company in the role of programmer.",
+        "Performance in both <primary>frontend and backend and databases</primary>.",
+        "Collaboration with other developers following the best practices in the industry."
+      ],
+      "isButtonVisible": false,
+      "address": "Havana, Cuba"
+    }
+  ]
+}
