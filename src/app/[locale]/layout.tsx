@@ -106,6 +106,23 @@ export default async function RootLayout({ children, params }: Props) {
 
   return (
     <html lang={locale} dir={dir(locale)} suppressHydrationWarning>
+      <head>
+        <script
+          dangerouslySetInnerHTML={{
+            __html: `
+              if (!localStorage.getItem('theme')) {
+                localStorage.setItem('theme', 'dark');
+              }
+              const theme = localStorage.getItem('theme');
+              if (theme === 'dark') {
+                document.documentElement.classList.add('dark');
+              } else {
+                document.documentElement.classList.remove('dark');
+              }
+            `,
+          }}
+        />
+      </head>
       <body className={cn(lekton.className, 'antialiased font-lekton')} suppressHydrationWarning>
         <NextTopLoader
           color="oklch(47.84% 0.1836 27.01)"
@@ -121,7 +138,7 @@ export default async function RootLayout({ children, params }: Props) {
           zIndex={999}
           showAtBottom={false}
         />
-        <ThemeProvider attribute="class" defaultTheme="system" enableSystem={false} disableTransitionOnChange>
+        <ThemeProvider attribute="class" defaultTheme="dark" enableSystem={false} disableTransitionOnChange storageKey="theme">
           {children}
         </ThemeProvider>
         <TranslationsProvider namespaces={i18nNamespaces} locale={locale} resources={resources}>
